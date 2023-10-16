@@ -14,5 +14,18 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "moment": "^2.29.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AgentBlue/ApiLogger.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "chris bahr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgentBlue/ApiLogger/issues"
+  },
+  "homepage": "https://github.com/AgentBlue/ApiLogger#readme"
 }
